@@ -1,0 +1,5 @@
+-=-=-=-=-=-(Result list)-=-=-=-=-=- 
+2 - Positive Numbers Found 
+1 - Negative Numbers Found 
+2 - Zeros Found 
+2 - Words Found 
